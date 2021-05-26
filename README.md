@@ -11,13 +11,21 @@ Finds the path a robot can take from a starting position to a final position on 
 ## DESCRIPTION:
 
 -Finds the path a robot can take from a starting position to a final position on a 2D, NxN grid.
+
 -The NxN grid is supplied via an input file (see Input file formatting rules)
+
 -The grid has both free and obstacle grids
+
 -Grids marked with + are obstacle grids
+
 -Grids marked with . are free grids
+
 -A grid marked with i is the starting grid/position of the robot
+
 -A grid marked with g is the goal node/final position the robot wants to reach
+
 -The robot can only move left, right, up, and down, and can only move by 1 grid each step.
+
 -Each move has a step cost of 1
 
 ## INPUT FILE FORMATTING RULES:

@@ -4,8 +4,11 @@ Finds the path a robot can take from a starting position to a final position on 
 
 ## PROGRAMMED BY:
   Name: Diego Avena
+  
   email: avena@chapman.edu
+  
   StudentID: 2299333
+  
   Project Name: Best-First Robot Navigation
   
 ## DESCRIPTION:

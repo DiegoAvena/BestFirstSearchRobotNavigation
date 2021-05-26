@@ -1,13 +1,13 @@
 # BestFirstSearchRobotNavigation
 Finds the path a robot can take from a starting position to a final position on a 2D, NxN grid.
 
-# PROGRAMMED BY:
+## PROGRAMMED BY:
   Name: Diego Avena
   email: avena@chapman.edu
   StudentID: 2299333
   Project Name: Best-First Robot Navigation
   
-# DESCRIPTION:
+## DESCRIPTION:
 
 -Finds the path a robot can take from a starting position to a final position on a 2D, NxN grid.
 -The NxN grid is supplied via an input file (see Input file formatting rules)
@@ -19,7 +19,7 @@ Finds the path a robot can take from a starting position to a final position on 
 -The robot can only move left, right, up, and down, and can only move by 1 grid each step.
 -Each move has a step cost of 1
 
-# INPUT FILE FORMATTING RULES:
+## INPUT FILE FORMATTING RULES:
 
 Create a text file and preferebly place it in the same
 directory of this README file.
@@ -29,7 +29,7 @@ Organize the input file in the following way:
 line 1: X, An integer number representing the grid size
 lines 2 to (currentLine + X): The grid, only acceptable characters are . + i g
 
-# COMPILING INSTRUCTIONS:
+## COMPILING INSTRUCTIONS:
 
 With makefile:
   make all
@@ -37,7 +37,7 @@ With makefile:
  Without makeFile:
   javac *java
 
-# RUNNING INSTRUCTIONS:
+## RUNNING INSTRUCTIONS:
 
   With makefile
     2 Options:
@@ -61,7 +61,7 @@ With makefile:
             and feed in the name of
             a file to read from through the command line
 
-# PROGRAM OUTPUT:
+## PROGRAM OUTPUT:
   The program will perform 4 versions of best first search on the
   input file given, and output the results in the form of the grid with
   the path drawn on it to both to the console and a

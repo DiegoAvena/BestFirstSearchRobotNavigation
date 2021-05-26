@@ -1,5 +1,9 @@
 # BestFirstSearchRobotNavigation
 
+![BestFirstSearchRobotNavigation](https://user-images.githubusercontent.com/43594702/119722753-8042ed00-be21-11eb-8e64-a2154bc78b11.png)
+
+[See it in action!](https://www.youtube.com/watch?v=ivEWDpP1VRE)
+
 ## PROGRAMMED BY:
   Name: Diego Avena
   
